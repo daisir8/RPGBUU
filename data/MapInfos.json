@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":451,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"世界地图 2","order":2,"parentId":1,"scrollX":1178,"scrollY":2400.5},
+{"id":3,"expanded":true,"name":"森林小镇","order":3,"parentId":2,"scrollX":844,"scrollY":1616.5},
+{"id":4,"expanded":true,"name":"小村民居 1F","order":4,"parentId":3,"scrollX":557,"scrollY":560.5},
+{"id":5,"expanded":false,"name":"小村民居 2F","order":5,"parentId":4,"scrollX":521,"scrollY":380.5}
+]
